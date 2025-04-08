@@ -1,0 +1,23 @@
+<html>
+    <body>
+        <table border="1">
+            <caption> poblacion de los paises con mayor cantidad de habitantes</caption>
+             <tr> 
+                <td>paises</td>
+                <td>cantidad de habitantes</td>
+             </tr>
+             <tr>
+                <td>china</td>
+                <td>1300 millones</td>
+             </tr>
+             <tr>
+                <td>india </td>
+                <td>1080 millones</td>
+             </tr>
+             <tr>
+                <td>estados unidos</td>
+                <td>295 millones</td>
+             </tr>
+        </table>
+    </body>
+</html>    

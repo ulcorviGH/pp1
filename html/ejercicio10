@@ -1,0 +1,30 @@
+<html>
+     <body>
+        <table border="1">
+            <tr>
+                <td  rowspan="5"><b>Recusos</b></td>
+            </tr>
+            <tr>
+               <td colspan="4"><b>faturacion de los ultimos meses</b></td>
+            </tr>
+            <tr>
+                <td>Discos Duros</td>
+                <td>23000</td>
+                <td> 27200</td>
+                <td>26000</td>
+            </tr>    
+            <tr>
+                <td>CPU</td>
+                <td>73000</td>
+                <td> 67300</td>
+                <td>51000</td>
+            </tr>
+            <tr>
+                <td>Monitores</td>
+                <td>53000</td>
+                <td> 72000</td>
+                <td>88000</td>
+            </tr>     
+        </table>
+     </body>
+</html>           

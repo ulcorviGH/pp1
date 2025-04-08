@@ -1,0 +1,24 @@
+<html>
+    <meta charset="UTF8">
+    <body>
+       <ol type="1">
+          <li>Argentina</li>
+          <ul type="circle">
+            <li><a href="https://www.lanacion.com.ar/">La nacion</a></li>
+            <li><a href="https://www.clarin.com/">Clarin</a></li>
+            <li><a href="https://www.pagina12.com.ar/">Pagina</a></li>
+          </ul>
+         <li> España</li>
+         <ul type="disc">
+            <li><a herf="https://elpaisdiariodigital.com/">El pais digital</a></li>
+            <li><a herf="https://www.abc.es/sevilla/">ABC</a></li>
+            <li><a herf="https://www.elmundo.es/">EL mundo</a></li>
+         </ul>
+         <li> Mexico</li>
+         <ul type="square">
+            <li><a href="https://www.jornada.com.mx/">LA JORDA</a></li>
+            <li><a herf="https://www.eluniversal.com.mx/">El UNIVERSAl</a></li>
+         </ul> 
+        </ol>
+    </body>
+</html>
