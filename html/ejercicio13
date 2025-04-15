@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Imágenes con Hipervínculos</title>
+</head>
+<body>
+
+    <h1>Haz clic en una imagen</h1>
+
+    <a href="Ejercicio1.html">
+        <img src="fb6d16c4321ab45dad1c6290f2740f7a.jpg" alt="Imagen 1" width="300">
+    </a>
+
+    <a href="Ejercicio4.html">
+        <img src="fb_1344347_not-encoding.jpg" alt="Imagen 2" width="300">
+    </a>
+
+</body>
+</html>
