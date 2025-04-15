@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title> </title>
+</head>
+<body>
+
+    <h1>Mi imagen</h1>
+    <img src="fb_1344347_not-encoding.jpg" alt="Descripción de la imagen" width="500">
+
+</body>
+</html>
