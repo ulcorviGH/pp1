@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Ejemplo de Estilos</title>
+    <style>
+        body {
+            font-family: Tahoma;
+            background-color: black;
+            color: white;
+        }
+        h3 {
+            color: red;
+        }
+        p {
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+
+    <h3>algo importante</h3>
+    <p>Sección 1.10.32 de "de Finibus Bonorum et Malorum", escrito por Cicerón en el 45 a.C.
+        "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi arquitecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, <br> quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur,<br> adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?<br> Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"</p>
+
+</body>
+</html>
