@@ -1,0 +1,11 @@
+/* Archivo: estilos.css */
+p {
+    color: green;
+    background-color: yellow;
+}
+
+h1 {
+    color: blue;
+    text-decoration: underline;
+}
+
